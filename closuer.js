@@ -12,6 +12,7 @@ console.log(click1());
 console.log(click1());
 console.log(click1());
 const click2 = stopWatch();
+const click2 = stopWatch();
 console.log(click2());
 console.log(click2());
 console.log(click2());
